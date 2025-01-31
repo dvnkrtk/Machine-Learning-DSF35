@@ -12,4 +12,4 @@ Building the best model to classify Iris flower species based on their physical 
 - Model Evaluation
 
 ## Project with Decision Tree
-Using real-world data and machine learning techniques, this project is about data preprocessing, exploratory data analysis (EDA), and implementation of classification models using Decision Tree, one of the simplest and most effective machine learning algorithms due to its better generalization capabilities . The success of the model in achieving high accuracy of 96% shows the power of this technique in solving classification problems with relatively simple data sets.
+Using real-world data and machine learning techniques, this project is about data preprocessing, exploratory data analysis (EDA), and implementation of classification models using Decision Tree, one of the simplest and most effective machine learning algorithms due to its better generalization capabilities . The success of the model in achieving high accuracy of 95% shows the power of this technique in solving classification problems with relatively simple data sets.
